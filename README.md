@@ -1,6 +1,6 @@
-# whisper_calculator
+# simple_python_calculator
 A small cli calculator, one of the challenges in University of Hull's Artificial 
-Intelligence Foundations course, built to experiment with:
+Intelligence Foundations course, week 2, built to experiment with:
 - passing functions to functions
 - tuple values in enums
 
