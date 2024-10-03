@@ -1,5 +1,8 @@
 # whisper_calculator
-
+A small cli calculator, one of the challenges in University of Hull's Artificial 
+Intelligence Foundations course, built to experiment with:
+- passing functions to functions
+- tuple values in enums
 
 ## Requirements
 - python 3.12
